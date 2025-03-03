@@ -1,0 +1,1 @@
+# stm32wba55-pac
